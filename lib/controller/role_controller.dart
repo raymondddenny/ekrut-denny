@@ -14,4 +14,8 @@ class RoleProvider extends ChangeNotifier {
       _descriptionTextEditingController;
   TextEditingController get requirementtexteditingcontroller =>
       _requirementTextEditingController;
+
+  // TODO: add HTTP Request Handle
+  // TODO: integrate role page
+  // TODO: integrate user page
 }
